@@ -11,7 +11,8 @@ What are different order status in 2022?
 List top 10 states contributingto the sales?               
 Relation between age and gender based on number of orders.                
 Which Channel is contributing maximum to the sales?                
-Highest selling category?               
+Highest selling category?      
+                                 
 Project Insight :                       
 
 Women customers are more likely to buy products compared to men (~65%).                  
